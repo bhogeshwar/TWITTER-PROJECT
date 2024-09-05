@@ -1,0 +1,13 @@
+# .gitignore
+# Ignore environment variable file
+.env
+
+# Ignore virtual environment folder
+venv/
+
+# Ignore other unnecessary files
+*.pyc
+__pycache__/
+
+# Ignore VS Code settings (optional)
+.vscode/
